@@ -70,7 +70,7 @@ Darker = {
 		Version = "4.1"
 	},
 	Save = {
-		UISize = {463,246},
+		UISize = {480,239},
 		TabSize = 160,
 		Theme = "Darker"
 	},
